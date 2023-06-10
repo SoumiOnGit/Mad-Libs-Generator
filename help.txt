@@ -1,0 +1,14 @@
+A Mad Libs generator is a fun word game where players fill 
+in the blanks in a story with different types of words like 
+nouns, verbs, adjectives, and adverbs. The game typically 
+provides a story with missing words, and players are asked 
+to give words based on specific instructions 
+(e.g., "Give me a noun," "Give me a verb," etc.). 
+Once all the words are filled in, the completed story is 
+read aloud, often resulting in silly and humorous combinations. 
+The goal is to create funny and unexpected stories by inserting 
+random or creative words into the blanks. Mad Libs generators 
+can be in the form of books, printable sheets, or online tools 
+that make it easy to play and generate unique stories.
+
+
